@@ -1,0 +1,16 @@
+{
+  "name": "http-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gregory Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "formidable": "^1.2.2"
+  }
+}
